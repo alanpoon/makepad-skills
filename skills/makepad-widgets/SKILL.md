@@ -24,6 +24,7 @@ Refer to the local files for detailed documentation:
 - `./references/widgets-core.md` - Core widgets (View, Button, Label, etc.)
 - `./references/widgets-advanced.md` - Helper and advanced widgets
 - `./references/widgets-richtext.md` - Rich text widgets (Markdown, Html, TextFlow)
+- `./references/widgets-fold.md` - Fold widgets (FoldButton, FoldHeader, collapsible patterns)
 
 ## IMPORTANT: Documentation Completeness Check
 
